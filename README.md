@@ -46,4 +46,6 @@ The Health Care Management System (HMS) is a Java Swing-based application design
 - **Challenges Faced**: Challenges encountered during development.
 - **Lessons Learned**: Lessons learned from the project.
 
+![Business process flow example (2)](https://github.com/aed5100/final-project-fusionforce/assets/144962209/1489badc-5c26-4458-af97-0df5f659cd9e)
 
+![HealthCare Mgmt UML Diagram](https://github.com/aed5100/final-project-fusionforce/assets/144962209/5d873a28-0eab-4ca3-9ab2-fbbad83000d0)
